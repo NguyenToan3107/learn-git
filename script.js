@@ -17,3 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
 document.querySelector('.main').addEventListener('click', (e) => {
     console.log('toan')
 })
+
+document.querySelector('.toan').addEventListener('click', (e) => {
+    console.log('toan')
+})
