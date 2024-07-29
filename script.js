@@ -13,3 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     });
 });
+
+document.querySelector('.main').addEventListener('click', (e) => {
+    console.log('toan')
+})
